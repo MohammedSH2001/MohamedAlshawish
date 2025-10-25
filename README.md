@@ -40,8 +40,8 @@
 
 <!-- Fallback to SimpleIcons if logo not available -->
 <p>
-  <img src="https://cdn.simpleicons.org/burp/000000" height="28" alt="Burp" />
-  &nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/000000" height="36" alt="Wireshark" />
+
   <img src="https://cdn.simpleicons.org/owasp/000000" height="28" alt="OWASP" />
 </p>
 
