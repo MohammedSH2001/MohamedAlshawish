@@ -6,10 +6,23 @@
 ---
 
 ## 🛠️ المهارات التقنية
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<!-- مجموعة رئيسية -->
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" />
+</p>
+
+<!-- سوبابيس: أدوات/مهارات فرعية -->
+<p>
+  <img src="https://img.shields.io/badge/Flutter_Frontend-007acc?style=flat-square&logo=flutter" height="26" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Riverpod-State-6E3AFA?style=flat-square" height="26" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Retrofit-Api-2E9FFC?style=flat-square" height="26" />
+</p>
 
 ---
 
