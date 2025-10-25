@@ -35,14 +35,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="36" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=red" height="36" />
+  <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="36" />
 </p>
 
 <!-- Fallback to SimpleIcons if logo not available -->
 <p>
-<img src="https://cdn.simpleicons.org/wireshark/FF0000" height="36" alt="Wireshark" />
+<img src="https://cdn.simpleicons.org/wireshark/FF0000" height="58" alt="Wireshark" />
 
-  <img src="https://cdn.simpleicons.org/owasp/FF0000" height="28" alt="OWASP" />
+  <img src="https://cdn.simpleicons.org/owasp/FF0000" height="58" alt="OWASP" />
 </p>
 
 
