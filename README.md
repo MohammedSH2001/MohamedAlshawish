@@ -35,6 +35,14 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="36" />
 
+<!-- مثال: metasploit من SimpleIcons -->
+<img src="https://cdn.simpleicons.org/metasploit/000000" height="36" alt="Metasploit" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/nmap/000000" height="36" alt="Nmap" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/000000" height="36" alt="Wireshark" />
+
+
 
 ## 📸 لقطات شاشة
 ![app-screenshot](link-to-screenshot.png)
