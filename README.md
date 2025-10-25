@@ -17,11 +17,8 @@
 
 <!-- Sub-badges -->
 <p>
-  <img src="https://img.shields.io/badge/Riverpod-State-6E3AFA?style=flat-square" height="26" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Retrofit-API-2E9FFC?style=flat-square" height="26" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dio-HTTP-00AEEF?style=flat-square" height="26" />
+
+  <img src="https://img.shields.io/badge/Dio-HTTP-00AEEF?style=flat-square" height="58" />
 </p>
 
 ---
