@@ -4,44 +4,46 @@
 أعمل على بناء تطبيقات عملية مع واجهات جذابة وتجربة مستخدم سلسة.
 
 ---
+# مهاراتي التقنية
 
-## 🛠️ المهارات التقنية
-<!-- مجموعة رئيسية -->
+<!-- Main big badges -->
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="44" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="44" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="44" />
 </p>
 
-<!-- سوبابيس: أدوات/مهارات فرعية -->
+<!-- Sub-badges -->
 <p>
-  <img src="https://img.shields.io/badge/Flutter_Frontend-007acc?style=flat-square&logo=flutter" height="26" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Riverpod-State-6E3AFA?style=flat-square" height="26" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Retrofit-Api-2E9FFC?style=flat-square" height="26" />
+  <img src="https://img.shields.io/badge/Retrofit-API-2E9FFC?style=flat-square" height="26" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dio-HTTP-00AEEF?style=flat-square" height="26" />
 </p>
 
 ---
 
-<!-- Pentest tools - for-the-badge (تكبير) -->
-<img src="https://img.shields.io/badge/Kali-Linux-2596be?style=for-the-badge&logo=kali-linux&logoColor=white" height="36" />
-&nbsp;
-<img src="https://img.shields.io/badge/Metasploit-26232f?style=for-the-badge&logo=metasploit&logoColor=white" height="36" />
-&nbsp;
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="36" />
-&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="36" />
+## 🛡️ أدوات اختبار الاختراق (Penetration testing)
 
-<!-- مثال: metasploit من SimpleIcons -->
-<img src="https://cdn.simpleicons.org/metasploit/000000" height="36" alt="Metasploit" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/nmap/000000" height="36" alt="Nmap" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/000000" height="36" alt="Wireshark" />
+<p>
+  <img src="https://img.shields.io/badge/Kali-Linux-2596be?style=for-the-badge&logo=kali-linux&logoColor=white" height="36" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-26232f?style=for-the-badge&logo=metasploit&logoColor=white" height="36" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="36" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="36" />
+</p>
 
+<!-- Fallback to SimpleIcons if logo not available -->
+<p>
+  <img src="https://cdn.simpleicons.org/burp/000000" height="28" alt="Burp" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="28" alt="OWASP" />
+</p>
 
 
 ## 📸 لقطات شاشة
