@@ -26,6 +26,15 @@
 
 ---
 
+<!-- Pentest tools - for-the-badge (تكبير) -->
+<img src="https://img.shields.io/badge/Kali-Linux-2596be?style=for-the-badge&logo=kali-linux&logoColor=white" height="36" />
+&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-26232f?style=for-the-badge&logo=metasploit&logoColor=white" height="36" />
+&nbsp;
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="36" />
+&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="36" />
+
 
 ## 📸 لقطات شاشة
 ![app-screenshot](link-to-screenshot.png)
